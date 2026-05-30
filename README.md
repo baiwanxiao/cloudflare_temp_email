@@ -1,5 +1,5 @@
 <!-- markdownlint-disable-file MD033 MD045 -->
-# Cloudflare 临时邮箱 - 免费搭建临时邮件服务
+# 夏天临时邮箱
 
 <p align="center">
   <a href="https://temp-mail-docs.awsl.uk" target="_blank">
